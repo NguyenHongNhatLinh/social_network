@@ -113,7 +113,7 @@ class FacebookGroupScraper:
             return None
         
     
-    def save_members_to_csv(self, members, file_name="/Users/LinhNh/MXH/Buoi1/group_members.csv"):
+    def save_members_to_csv(self, members, file_name="/Users/LinhNh/MXH/Buoi1/group_members_bt2.csv"):
         """
         Lưu danh sách thành viên vào file CSV bằng pandas.
 
